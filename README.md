@@ -4,7 +4,7 @@ Syntax highlighting for AutoHotKey v1 & v2. A two grammars are provided separate
 
 ## Installation
 
-To install `language-ahkpp` search for [language-ahkpp](https://web.pulsar-edit.dev/packages/language-ahkpp) in the Install pane of the Pulsar settings or run `ppm install language-ahkpp`. Alternatively, you can run `ppm install bacadra/pulsar-language-ahkpp` to install a package directly from the Github repository.
+To install `language-ahkpp` search for [language-ahkpp](https://web.pulsar-edit.dev/packages/language-ahkpp) in the Install pane of the Pulsar settings or run `ppm install language-ahkpp`. Alternatively, you can run `ppm install asiloisad/pulsar-language-ahkpp` to install a package directly from the Github repository.
 
 # Contributing
 

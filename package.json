@@ -1,17 +1,14 @@
 {
   "name": "language-ahkpp",
-  "version": "1.0.0",
   "description": "Syntax highlighting for AutoHotKey v1 & v2",
+  "repository": "https://github.com/asiloisad/pulsar-language-ahkpp",
   "keywords": [
     "ahkpp",
     "language"
   ],
+  "version": "1.0.0",
+  "license": "MIT",
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
-  },
-  "readmeFilename": "README.md",
-  "homepage": "https://github.com/bacadra/pulsar-language-ahkpp",
-  "url": "https://github.com/bacadra/pulsar-language-ahkpp",
-  "repository": "https://github.com/bacadra/pulsar-language-ahkpp",
-  "license": "MIT"
+  }
 }
